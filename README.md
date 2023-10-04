@@ -11,8 +11,8 @@ Simple RGB color game is a web application written in pure JavaScript, HTML and 
 
 ## Technologies Used
 - JavaScript - ES12
-- Html 5
-- Css3
+- HTML5
+- CSS3
 
 ## Features
 

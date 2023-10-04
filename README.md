@@ -18,9 +18,9 @@ Simple RGB color game is a web application written in pure JavaScript, HTML and 
 
 ### Game features
 - Difficulty level selection:
-  The player can choose whether he wants to play on basic or advanced level.
+    The player can choose whether he wants to play on basic or advanced level.
 - Selecting a square:
-  The player can click on the selected square to select it.
+    The player can click on the selected square to select it.
 - Level won or lost information:
   Information about whether the player won or lost the round.
 - "New Game" button:

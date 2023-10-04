@@ -24,11 +24,11 @@ Simple RGB color game is a web application written in pure JavaScript, HTML and 
 
 ## Screenshots
 
-### Swagger
+### Game menu
 ![Game Menu](images/GameMenu.png)
+
+### Game win
 ![GameWin](images/GameWin.png)
-
-
 
 ## Project Status
 Project is: **Finished**.
